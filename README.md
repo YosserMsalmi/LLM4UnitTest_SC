@@ -32,10 +32,8 @@ LLM4UnitTests-SC is a fullstack application for automatically generating unit te
 
 ## Demo Video
 
-<p align="center">
-  <video src="assets/demoLLM4UnitTest_SC.mp4" controls width="700">
-  </video>
-</p>
+https://drive.google.com/drive/folders/1PZiS_gGdrJ9ZG4-DJuHcGCuMN7YfxT2o
+
 
 
 ## Project Structure
