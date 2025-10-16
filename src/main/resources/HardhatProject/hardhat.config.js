@@ -1,0 +1,34 @@
+require("@nomicfoundation/hardhat-toolbox");
+
+/** @type import('hardhat/config').HardhatUserConfig */
+module.exports = {
+  solidity: {
+    compilers: [
+      { version: "0.8.0" },
+      { version: "0.8.1" },
+      { version: "0.8.2" },
+      { version: "0.8.3" },
+      { version: "0.8.4" },
+      { version: "0.8.5" },
+      { version: "0.8.6" },
+      { version: "0.8.7" },
+      { version: "0.8.8" },
+      { version: "0.8.9" },
+      { version: "0.8.10" },
+      { version: "0.8.11" },
+      { version: "0.8.12" },
+      { version: "0.8.13" },
+      { version: "0.8.14" },
+      { version: "0.8.15" },
+      { version: "0.8.16" },
+      { version: "0.8.17" },
+      { version: "0.8.18" },
+      { version: "0.8.19" },
+      { version: "0.8.20" },
+      { version: "0.8.21" },
+      { version: "0.8.22" },
+      { version: "0.8.23" },
+      { version: "0.8.24" },
+    ],
+  },
+};
